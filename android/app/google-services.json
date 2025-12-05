@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "213910265912",
+    "project_id": "pbp-firebase-80265",
+    "storage_bucket": "pbp-firebase-80265.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213910265912:android:d99e61019a45ff5e81c6cd",
+        "android_client_info": {
+          "package_name": "com.example.rnfirebasemmkv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkJAHnEVCPTzExXv-GEVGw3VXjfQADA7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
